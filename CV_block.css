@@ -1,0 +1,46 @@
+body
+    {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+        background-color: black;
+        color: white;
+    }
+
+#presentation
+    {
+        border: 7px cyan double;
+        border-radius: 15px;
+        display: flex;
+        align-items: center;
+        padding: 17px;
+    }
+
+#presentation_titre
+    {
+        margin-right: 15px;
+    }
+
+#presentation_pdp
+    {
+        margin-right: 15px;
+    }
+
+#experiences
+    {
+        border: 7px cyan double;
+        border-radius: 15px;
+    }
+
+#competences
+    {
+        border: 7px cyan double;
+        border-radius: 15px;
+    }
+
+#hobbies
+    {
+        border: 7px cyan double;
+        border-radius: 15px;
+    }
+
